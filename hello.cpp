@@ -6,6 +6,7 @@ int main() {
     cout << "C++14 introduced several new features, including generic lambdas, variable templates, and improved type inference." << endl;
     //搞什么啊这个是
     //有个问题啊
+    //然后我在尝试，我看这玩意是个啥
     
     //1
     //2
